@@ -1,10 +1,5 @@
 # The RCAS profiles of the RBP binding sites
 
-The repo is to host the scripts and the RCAS profiles of
-the binding sites of multiple RBPs.
-
-# Profiles
-
 RBP ID | SRA ID | RCAS profile
 --- | --- | ---
 DND1 | DND1_B | [profile](https://bimsbstatic.mdc-berlin.de/akalin/RCAS/DND1_B.clusters.bed.RCAS.report.html)
